@@ -1,6 +1,5 @@
-Bio: 
-Chong Chang Yang
-37
-La Crosse, WI
-
-Data Analyst Student @ Western Technical College
+Bio:    
+Name:  Chong Chang Yang    
+Age:  37    
+Hometown:  La Crosse, WI    
+Current Occupation:  Data Analyst Student @ Western Technical College

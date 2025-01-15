@@ -4,7 +4,7 @@
   </p>    
   
 <p align="center">Full Name:  Chong Chang Yang    
-  Age:  37    
+  <br>Age:  37</br>    
   Hometown:  La Crosse, WI    
   Current Occupation:  Data Analyst Student @ Western Technical College    
   Email:  ccyang8792@gmail.com

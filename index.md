@@ -2,8 +2,8 @@
 
 ---
 **Contact Info:**  
-*608.797.8368*  
-*ccyang8792@gmail.com*  
+608.797.8368  
+ccyang8792@gmail.com  
 
 ---  
 **Bio**  

@@ -4,14 +4,7 @@
   </p>    
   
 <p align="center"><b>Full Name:</b>  
-  <br>Chong Chang Yang    
-  <br><b>Age:</b>  
-  <br>37    
-  <br><b>Hometown:</b>  
-  <br>La Crosse, WI    
-  <br><b>Current Occupation:</b>  
+  <br>Chong Chang Yang/37/La Crosse, WI/ccyang8792@gmail.com
   <br>Data Analyst Student @ Western Technical College    
-  <br><b>Email:</b>  
-  <br>ccyang8792@gmail.com
 </p>
 

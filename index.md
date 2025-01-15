@@ -4,7 +4,7 @@
   </p>    
   
 <p align="center"><b>Full Name:</b>  
-  <br>Chong Chang Yang/37/La Crosse, WI/ccyang8792@gmail.com
+  <br>Chong Chang Yang.37.La Crosse, WI.ccyang8792@gmail.com
   <br>Data Analyst Student @ Western Technical College    
 </p>
 

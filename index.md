@@ -3,8 +3,8 @@
 **Contact Info:**  
 *608.797.8368*  
 *ccyang8792@gmail.com*  
-
-**BIO**  
+---
+**Bio**  
 -Full Time Student  
 -Data Analyst @ Western Technical College  
 -37 Years Young  

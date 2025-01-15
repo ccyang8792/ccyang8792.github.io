@@ -2,5 +2,11 @@
 ---
 **Contact Info:**  
 608.797.8368  
-ccyang8792@gmail.com
+ccyang8792@gmail.com  
+
+**BIO**  
+-Full Time Student
+-Data Analyst @ Western Technical College
+-37 years young
+-La Crosse, WI
 

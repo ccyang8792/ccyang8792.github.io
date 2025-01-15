@@ -5,8 +5,8 @@
 ccyang8792@gmail.com  
 
 **BIO**  
--Full Time Student
--Data Analyst @ Western Technical College
--37 years young
--La Crosse, WI
+-Full Time Student  
+-Data Analyst @ Western Technical College  
+-37 years young  
+-La Crosse, WI  
 

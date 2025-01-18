@@ -12,3 +12,5 @@ ccyang8792@gmail.com
 -37 Years Young  
 -La Crosse, WI  
 
+[Mission Statment](https://github.com/ccyang8792/ccyang8792.github.io/edit/main/missionstmt.html)
+

@@ -12,6 +12,8 @@ ccyang8792@gmail.com
 -37 Years  
 -La Crosse, WI  
 
-[My Mission Statement](https://ccyang8792.github.io/missionstmt.html)
+[My Mission Statement](https://ccyang8792.github.io/missionstmt.html)  
+[Strengths](https://ccyang8792.github.io/strengths.html)  
+[Work Goals](https://ccyang8792.github.io/workgoals.html)  
 
 

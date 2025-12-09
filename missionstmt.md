@@ -1,3 +1,3 @@
 Mission Statement  
 
-*My personal mission is to create a loving and safe home environment to watch my children grow while prioritizing quality time with my wife.*
+*My personal mission is to find a rewarding and enjoyable career that also enables me to spend meaningful quality time with myfamily*

@@ -20,7 +20,7 @@ ccyang8792@gmail.com
 
 ---
 **Data Analytics Program**
-[Intro to Data Analytics](https://ccyang8792.github.io/Intro%20to%20Data%20Analytics/DA.html)
+[Intro to Data Analytics](https://ccyang8792.github.io/Intro%20to%20DA/DA.html)
 [Data Modeling](https://ccyang8792.github.io/%20Data%20Modeling/DM.html)
 [Power Bi & Data Visualization and Reporting](https://ccyang8792.github.io/Power%20Bi%20&%20Data%20Visualization%20and%20Reporting/powerBI.html)
 [Business Analysis Fundamentals](https://ccyang8792.github.io/Business%20Analysis%20Fundamentals/BA.html)

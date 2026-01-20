@@ -18,3 +18,13 @@ ccyang8792@gmail.com
 [Work Goals](https://ccyang8792.github.io/workgoals.html)  
 
 
+---
+**Data Analytics Program**
+[Intro to Data Analytics]
+[Data Modeling]
+[Power Bi & Data Visualization and Reporting]
+[Business Analysis Fundamentals]
+[Python & Predictive Analytics]
+[Decision Optimization & Simulation]
+[Big Data]
+

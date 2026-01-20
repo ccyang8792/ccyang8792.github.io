@@ -20,12 +20,12 @@ ccyang8792@gmail.com
 
 ---
 **Data Analytics Program**
-[Intro to Data Analytics]
-[Data Modeling]
-[Power Bi & Data Visualization and Reporting]
-[Business Analysis Fundamentals]
-[Python & Predictive Analytics]
-[Decision Optimization & Simulation]
+[Intro to Data Analytics](https://ccyang8792.github.io/Intro%20to%20Data%20Analytics/DA.html)
+[Data Modeling](https://ccyang8792.github.io/%20Data%20Modeling/DM.html)
+[Power Bi & Data Visualization and Reporting](https://ccyang8792.github.io/Power%20Bi%20&%20Data%20Visualization%20and%20Reporting/powerBI.html)
+[Business Analysis Fundamentals](https://ccyang8792.github.io/Business%20Analysis%20Fundamentals/BA.html)
+[Python & Predictive Analytics](https://ccyang8792.github.io/Python%20&%20Predictive%20Analytics/Linear_Regression_lab.ipynb)
+[Decision Optimization & Simulation](https://ccyang8792.github.io/Decision%20Optimization%20&%20Simulation/dos.html)
 [Big Data](https://ccyang8792.github.io/Big%20Data/Blank.html)
 
 

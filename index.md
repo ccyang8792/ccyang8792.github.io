@@ -6,17 +6,17 @@
 ccyang8792@gmail.com  
 
 ---  
-**Bio**  
+**Bio:**  
 -Full Time Student  
 -37 Years  
 -La Crosse, WI  
 
 ---
-**Education**  
+**Education:**  
 UW-La Crosse 2006  
-  Bachlor Degree in Finance  
+   Bachlor Degree in Finance  
 Western Technical College 2026   
-  Associates Degree in Data Analytics
+   Associates Degree in Data Analytics
 
 ---  
 [My Mission Statement](https://ccyang8792.github.io/missionstmt.html)  

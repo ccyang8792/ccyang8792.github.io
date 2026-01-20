@@ -14,7 +14,8 @@ ccyang8792@gmail.com
 ---
 **Education:**  
 UW-La Crosse 2006  
-   Bachlor Degree in Finance  
+```Bachlor Degree in Finance  
+   
 Western Technical College 2026   
    Associates Degree in Data Analytics
 

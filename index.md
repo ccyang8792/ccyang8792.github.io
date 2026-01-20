@@ -24,7 +24,7 @@ ccyang8792@gmail.com
 [Data Modeling](https://ccyang8792.github.io/Data_Modeling/dm.html)  
 [Power Bi & Data Visualization and Reporting](https://ccyang8792.github.io/PowerBI_and_Data_Vis/powerBI.html)  
 [Business Analysis Fundamentals](https://ccyang8792.github.io/Business_Analysis_Fundamentals/ba.html)  
-[Python & Predictive Analytics](https://ccyang8792.github.io/Python_and_Predictive_Analytics/ts1_clean.csv)  
+[Python & Predictive Analytics](https://ccyang8792.github.io/Python_and_Predictive_Analytics/python.html)  
 [Decision Optimization & Simulation](https://ccyang8792.github.io/Decision_Optimization_and_Simulation/dos.html)  
 [Big Data](https://ccyang8792.github.io/Big_Data/bd.html)  
 

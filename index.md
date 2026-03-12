@@ -13,7 +13,7 @@ ccyang8792@gmail.com
 
 ---
 **Education:**  
-UW-La Crosse 2006  
+UW-La Crosse 2013  
 &nbsp;&nbsp;&nbsp;&nbsp;-Bachelor's Degree in Finance  
    
 Western Technical College 2026   

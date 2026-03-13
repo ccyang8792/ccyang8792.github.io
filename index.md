@@ -24,7 +24,7 @@ Western Technical College 2026
 [My Mission Statement](https://ccyang8792.github.io/missionstmt.html)  
 [Strengths](https://ccyang8792.github.io/strengths.html)  
 [Work Goals](https://ccyang8792.github.io/workgoals.html)   
-
+[Certification](https://ccyang8792.github.io/certification.html)  
 
 ---
 **Data Analytics Program**  

@@ -7,17 +7,17 @@ ccyang8792@gmail.com
 
 ---  
 **Bio:**  
--Full Time Student  
--37 Years  
+-Full Time Student   
+-Father of 5   
 -La Crosse, WI  
 
 ---
 **Education:**  
-UW-La Crosse 2013  
-&nbsp;&nbsp;&nbsp;&nbsp;-Bachelor's Degree in Finance  
-   
 Western Technical College 2026   
 &nbsp;&nbsp;&nbsp;&nbsp;-Associate's Degree in Data Analytics
+
+UW-La Crosse 2013  
+&nbsp;&nbsp;&nbsp;&nbsp;-Bachelor's Degree in Finance  
 
 ---  
 [Resume](https://drive.google.com/file/d/1pqip6ds0bC2m3Qnq5aJa5jnfPH6NO0f_/view?usp=drive_link)  

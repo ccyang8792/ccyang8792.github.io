@@ -20,10 +20,10 @@ Western Technical College 2026
 &nbsp;&nbsp;&nbsp;&nbsp;-Associate's Degree in Data Analytics
 
 ---  
-[Resume](https://drive.google.com/file/d/1pqip6ds0bC2m3Qnq5aJa5jnfPH6NO0f_/view?usp=drive_link)  
+<p align="center>[Resume](https://drive.google.com/file/d/1pqip6ds0bC2m3Qnq5aJa5jnfPH6NO0f_/view?usp=drive_link)  
 [My Mission Statement](https://ccyang8792.github.io/missionstmt.html)  
 [Strengths](https://ccyang8792.github.io/strengths.html)  
-[Work Goals](https://ccyang8792.github.io/workgoals.html)  
+[Work Goals](https://ccyang8792.github.io/workgoals.html)</p>  
 
 
 ---

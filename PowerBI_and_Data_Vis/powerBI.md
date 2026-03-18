@@ -1,4 +1,4 @@
-**POWER BI**   
+**POWER BI & DATA VISUALIZATION**   
 
 ***Course Description:***   
 Learn best practices for visualizing data depending on its type and the story being told. Create and share dashboards and
@@ -7,4 +7,4 @@ design elements.
 
 ***Key Takeaways***   
 
-[1st PowerBI Lab](https://studentswesterntc-my.sharepoint.com/:u:/g/personal/yangd14_students_westerntc_edu/IQBT_lr7KTbySKRcCpDAHhuyATxup0eHY87PtbPpyUDERdI?e=fP6y97) [Download File](http://github.com/ccyang8792/ccyang8792.github.io/blob/main/Data_Modeling/FactMatrixDimensionalLab.xlsx)  
+[1st PowerBI Lab](https://studentswesterntc-my.sharepoint.com/:u:/g/personal/yangd14_students_westerntc_edu/IQBT_lr7KTbySKRcCpDAHhuyATxup0eHY87PtbPpyUDERdI?e=fP6y97) [Download File](https://github.com/ccyang8792/ccyang8792.github.io/blob/main/PowerBI_and_Data_Vis/Data%20Vis-%20Lab%201.pbix)  

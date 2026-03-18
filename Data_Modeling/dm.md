@@ -11,5 +11,5 @@ I remember this was the first class where we really began diving into data. It t
 
 Below is our final project of this class which required us to...need instruction from Nathan 
 
-[Dimensional Modeling Excel](https://docs.google.com/spreadsheets/d/16e0RxytJkYLOKedpLpzoPfj0qeSbwQHn/edit?usp=sharing&ouid=113167622765993232875&rtpof=true&sd=true) [Download File](http://github.com/ccyang8792/ccyang8792.github.io/blob/main/Data_Modeling/FactMatrixDimensionalLab.xlsx)   
-[Dimensional Modeling Reflection](https://drive.google.com/file/d/10M57VeUg251EN6ZSgHWfO_EPyWlz7WvW/view?usp=sharing) [Download File](https://github.com/ccyang8792/ccyang8792.github.io/blob/main/Data_Modeling/Relational%20Modeling%20Lab%20Answer%20Sheet.docx.pdf)  
+[Dimensional Modeling Assigment](http://github.com/ccyang8792/ccyang8792.github.io/blob/main/Data_Modeling/FactMatrixDimensionalLab.xlsx)   
+[Dimensional Modeling Reflection](https://github.com/ccyang8792/ccyang8792.github.io/blob/main/Data_Modeling/Relational%20Modeling%20Lab%20Answer%20Sheet.docx.pdf)  

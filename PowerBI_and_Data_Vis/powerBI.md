@@ -1,9 +1,14 @@
 **POWER BI & DATA VISUALIZATION**   
 
-***Course Description:***   
+***PowerBI Course Description:***   
+Utilize Power BI with dimensional modeling as a tool for business intelligence. Extract, transform, and load data from
+multiple sources. Create calculated columns and measures for use in simple visuals (in matrices, tables, and
+cards). Apply time intelligence functions and learn basic usage of common DAX commands.   
+
+***Data Visualiztion:***   
 Learn best practices for visualizing data depending on its type and the story being told. Create and share dashboards and
 reports using Power BI and SQL Server Reporting Services. Build multi-page apps that feature interactivity and advanced
-design elements.   
+design elements..   
 
 ***Key Takeaways***   
 

@@ -17,5 +17,5 @@ In the Power BI course, we focused on various data transformation techniques, in
 
 I would have to say that these two classes were my favorite in the program.  Not only was it fun creating dashboards, but transforming rows of data into dashboards that effectively summarize key insights is both rewarding and impactful.  After completing these two courses, I wanted to assess my knowledge of Power BI, so I decided to take the PL-300 exam to determine whether I needed to improve further.  Fortunately, I was able to pass the exam, an achievement I am truly proud of.   
 
-[Data Vis Assignment](https://github.com/ccyang8792/ccyang8792.github.io/blob/main/PowerBI_and_Data_Vis/Data%20Vis-%20Lab%201.pbix)
+[Data Vis Assignment](https://github.com/ccyang8792/ccyang8792.github.io/blob/main/PowerBI_and_Data_Vis/Data%20Vis-%20Lab%201.pbix)   
 [PowerBI Assignment](https://github.com/ccyang8792/ccyang8792.github.io/blob/main/PowerBI_and_Data_Vis/PBI%20and%20DATA%20VIS%20FINAL.pbix)

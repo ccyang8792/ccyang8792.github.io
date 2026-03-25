@@ -17,7 +17,7 @@ Western Technical College 2026:
 &nbsp;&nbsp;&nbsp;&nbsp;-Associate's Degree in Data Analytics
 
 UW-La Crosse 2013:  
-&nbsp;&nbsp;&nbsp;&nbsp;-Bachelor's Degree in Finance
+&nbsp;&nbsp;&nbsp;&nbsp;-Bachelor's Degree in Finance   
 &nbsp;&nbsp;&nbsp;&nbsp;- Minor in Statistics
 
 ---  

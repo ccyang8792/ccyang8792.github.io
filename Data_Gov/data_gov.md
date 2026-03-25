@@ -6,4 +6,5 @@ This course will introduce you to specific ideas around how we manage and take c
 **Key Takeaways:**   
 
 
-[Dimensional Modeling Assigment]()   
+[GreenBriar Grocers Instructions](https://github.com/ccyang8792/ccyang8792.github.io/blob/main/Data_Gov/GreenBriar_Grocers.pdf)   
+[GreenBriar Grocers Presentation](https://drive.google.com/file/d/1SzBydOYMGCUUfthStM8Qhv0-687-Dlmh/view?usp=sharing)   

@@ -14,5 +14,7 @@ The Predictive Analytics course built upon the foundation established in our Pyt
 
 [Python Final Instructions](https://studentswesterntc-my.sharepoint.com/:b:/g/personal/crowdern_westerntc_edu/IQDk5AURITdGQK5vdnav9jzXAawBe_ntoKlZL4kJOp_Ei4w?e=uwKBnp)   
 [Python Script](https://colab.research.google.com/drive/16Q5HUAZP-2PtBIRkSN4-VSjg1MVLc8UE?usp=sharing)   
+[Python Final Instructions](https://studentswesterntc-my.sharepoint.com/:b:/g/personal/crowdern_westerntc_edu/IQDk5AURITdGQK5vdnav9jzXAawBe_ntoKlZL4kJOp_Ei4w?e=uwKBnp)   
+[Python Script](https://colab.research.google.com/drive/16Q5HUAZP-2PtBIRkSN4-VSjg1MVLc8UE?usp=sharing)   
 
 

@@ -18,4 +18,6 @@ The Predictive Analytics course built upon the foundation established in our Pyt
 [Cluster/KMeans Activity](https://docs.google.com/document/d/1r9WcfV0GJj1MBqtjnoB5-3dRl1g_rPaX/edit?usp=sharing&ouid=113167622765993232875&rtpof=true&sd=true)   
 [Python Script](https://colab.research.google.com/drive/1cmSkx07D_jn5T61WvWDaymzqMWoaG98z?usp=sharing)   
 
+[Back](https://ccyang8792.github.io/index.html)  
+
 

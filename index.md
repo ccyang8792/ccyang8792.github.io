@@ -7,11 +7,7 @@
 ccyang8792@gmail.com  
 
 ---  
-**Bio:**  
--Full Time Student   
--Father of 5   
--La Crosse, WI  
-
+**[About Me](https://drive.google.com/file/d/1qp-EiiobF_FSJj17sS4rrP276EbcpsQA/view?usp=sharing)**  
 ---
 **Education:**  
 Western Technical College 2026:   
@@ -22,7 +18,6 @@ UW-La Crosse 2013:
 &nbsp;&nbsp;&nbsp;&nbsp;-Minor in Statistics
 
 ---  
-[Resume](https://drive.google.com/file/d/1pqip6ds0bC2m3Qnq5aJa5jnfPH6NO0f_/view?usp=drive_link)  
 [My Mission Statement](https://ccyang8792.github.io/missionstmt.html)  
 [Strengths](https://ccyang8792.github.io/strengths.html)  
 [Work Goals](https://ccyang8792.github.io/workgoals.html)   

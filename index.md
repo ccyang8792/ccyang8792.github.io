@@ -7,8 +7,7 @@
 ccyang8792@gmail.com  
 
 ---  
-**About Me:**  
-[Bio/Resume](https://drive.google.com/file/d/1qp-EiiobF_FSJj17sS4rrP276EbcpsQA/view?usp=sharing)  
+**About Me:**  [Bio/Resume](https://drive.google.com/file/d/1qp-EiiobF_FSJj17sS4rrP276EbcpsQA/view?usp=sharing)  
 
 ---
 **Education:**  

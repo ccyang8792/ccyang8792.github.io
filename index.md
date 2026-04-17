@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://avatars.githubusercontent.com/u/194128618?s=400&u=e8152c1efbb3906f3d196bc314d408ffbb722b3d&v=4" width="200" style="border-radius:50%;"></p>    
-
-<p align="center">
+  <p align="center">
   <img src="https://github.com/ccyang8792/ccyang8792.github.io/blob/main/chong%20pic.jpg" width="200" style="border-radius:50%;"></p>   
 
 

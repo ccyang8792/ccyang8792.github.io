@@ -1,5 +1,6 @@
-  <p align="center">
-  <img src="https://github.com/ccyang8792/ccyang8792.github.io/blob/main/chong%20pic2.JPG" width="200" style="border-radius:50%;"></p>   
+<p align="center">
+  <img src="images/chong_pic3.jpg" width="250" style="border-radius: 50%;" />
+</p>
 
 
 ---

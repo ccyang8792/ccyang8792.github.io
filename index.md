@@ -1,5 +1,5 @@
   <p align="center">
-  <img src="https://github.com/ccyang8792/ccyang8792.github.io/blob/main/chong%20pic.jpg" width="200" style="border-radius:50%;"></p>   
+  <img src="https://github.com/ccyang8792/ccyang8792.github.io/blob/main/chong%20pic2.jpg" width="200" style="border-radius:50%;"></p>   
 
 
 ---
